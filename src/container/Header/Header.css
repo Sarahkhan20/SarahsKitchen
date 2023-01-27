@@ -1,0 +1,48 @@
+.header {
+    background-color: black;
+    display: flex;
+}
+.header-h1 {
+    font-family: var(--font-base);
+    color: goldenrod;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height: 117px;
+    font-size: 90px;
+}
+
+.food_img {
+    width: 50%;
+    padding-left: 5rem;
+}
+
+button {
+    color: black;
+    background-color: aliceblue;
+    padding: 0.9rem;
+    font-style: var(--font-base);
+}
+@media screen and (min-width: 2000px) {
+    .header-h1 {
+        font-size: 180px;
+        line-height: 210px;
+    }
+}
+@media screen and (max-width: 1150px) {
+    .header-h1 {
+        font-size: 90px;
+    }
+}
+@media screen and (max-width: 650px) {
+    .header-h1 {
+        font-size: 70px;
+        line-height: 87px;
+    }
+}
+@media screen and (max-width: 450px) {
+    .header-h1 {
+        font-size: 50px;
+        line-height: 70px;
+    }
+}
