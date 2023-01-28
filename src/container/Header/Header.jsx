@@ -11,7 +11,7 @@ const Header = () => (
       <p className="link_opensans" style={{ margin: '2rem 0' }}>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui modi, ratione mollitia amet quaerat, ipsum iusto pariatur facilis quod vel esse nesciunt unde atque ut culpa dolorum quasi laudantium voluptas?
       </p>
-      <button type='button' className='custom_button'>Explore Menu</button>
+      <button type='button' className='custom_button' >Explore Menu</button>
     </div>
     <div className="wrapper_img">
       <img src={images.welcome} alt="welcome_img" srcset="" className='food_img'/>

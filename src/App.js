@@ -13,7 +13,6 @@ import {
 } from "./container";
 import { Navbar } from "./components";
 import "./App.css";
-import Page from "./components/Page";
 
 const App = () => (
     <div>
@@ -25,7 +24,6 @@ const App = () => (
         <Intro />
         <Laurels />
         <Gallery />
-        <Page />
         <FindUs />
         <Footer />
     </div>

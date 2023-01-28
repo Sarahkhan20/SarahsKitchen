@@ -1,0 +1,15 @@
+.menu_item {
+    margin: 2rem;
+}
+.menu_item_head {
+    display: flex;
+    justify-content: space-between;
+    gap: 3rem;
+    font-family: var(--font-base);
+}
+.menuitem-dash {
+    width: 90px;
+    height: 1px;
+    background-color: goldenrod;
+    margin: 0 1rem;
+}

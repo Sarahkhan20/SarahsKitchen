@@ -1,0 +1,44 @@
+.laurel_award_card img {
+    height: 200px;
+    background-color: aliceblue;
+    height: 50px;
+    width: 50px;
+    margin-left: 0;
+}
+.laurels_awards {
+    display: flex;
+    font-family: var(--font-base);
+    font-weight: 600;
+    width: 90%;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.laurels_title {
+    font-weight: 900;
+}
+.laurels_info {
+    margin-left: 5rem;
+    font-family: var(--font-base);
+    margin-top: 6rem;
+}
+.laurel_award_card {
+    display: flex;
+    text-align: left;
+}
+.laurel_award_content {
+    width: 60%;
+}
+.laurels_info h1 {
+    color: rgb(244, 197, 78);
+}
+.laurels_image img {
+    height: 60vh;
+    margin-top: 2rem;
+}
+.laurels_image {
+    width: 50%;
+}
+.awards_images {
+    display: flex;
+}
