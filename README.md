@@ -1,1 +1,2 @@
-Hosted at https://sarahkhan20.github.io/react-Sarah-sKitchen/
+Landing Page of Restaurant Website built with Reactjs.
+Special Thanks to [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) for the amazing Tutorial
